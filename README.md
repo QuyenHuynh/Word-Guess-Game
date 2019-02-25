@@ -7,6 +7,3 @@ To play, press any letter on the keyboard.
 * For each incorrect guess, the number of guesses remaining will decrement.
 * For correct guesses, the number of guesses remaining will not decrement.
 * The game will automatically reset for each win/loss.
-
-This is NOT coded for different display sizes.
-* My browser width is 1296px.

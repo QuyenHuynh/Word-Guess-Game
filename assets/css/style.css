@@ -25,7 +25,7 @@ body {
     left: 20px;
     width: 40%;
     padding: 10px;
-    font-size: 40px;
+    font-size: 30px;
     background-image: url("../images/zigzag.png");
     color:white;
     font-family: 'Raleway', sans-serif;
@@ -36,16 +36,15 @@ body {
 #stats {
     position: relative;
     top: 250px;
-    margin-bottom: 20px;
     text-align: left;
-    font-size: 18px;
     margin-left: 20px;
     color: black;
     font-weight: 500;
 }
-h3 {
+h4 {
     text-align: center;
     position: relative;
     top: 150px;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
