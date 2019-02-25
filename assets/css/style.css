@@ -6,13 +6,15 @@ header {
     background-image: url("../images/zigzag.png");
     background-color: #292c2f;
     width: 100%;
-    color: #eeee;
+    color: white;
 }
 
 body {
-    background-image: url("../images/yum1.jpg");
-    background-position: center;
+    background-image: url("../images/background1.jpg");
+    background-position: top;
+    background-size: cover;
     background-repeat: repeat;
+    background-position-y: 20px;
     margin: 0;
     padding: 0;
 }
@@ -20,27 +22,30 @@ body {
     margin: 0 auto;
     position: relative;
     top: 150px;
-    width: 35%;
+    left: 20px;
+    width: 40%;
     padding: 10px;
     font-size: 40px;
-    font-weight: 600;
     background-image: url("../images/zigzag.png");
     color:white;
-    border: 3px solid white;
-
+    font-family: 'Raleway', sans-serif;
+    border-width:5px;  
+    border-style:inset;
 }
 
 #stats {
     position: relative;
     top: 250px;
+    margin-bottom: 20px;
     text-align: left;
     font-size: 18px;
     margin-left: 20px;
-    font-weight: 600;
+    color: black;
+    font-weight: 500;
 }
-p {
+h3 {
     text-align: center;
     position: relative;
     top: 150px;
-    font-weight: 600;
+    margin-left: 20px;
 }
