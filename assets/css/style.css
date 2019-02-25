@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-weight: normal;
+    padding: 8px;
+    background-image: url("../images/zigzag.png");
+    background-color: #292c2f;
+    width: 100%;
+    color: #eeee;
+}
+
+body {
+    background-image: url("../images/yum1.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+}
+#underscores {
+    margin: 0 auto;
+    position: relative;
+    top: 150px;
+    width: 35%;
+    padding: 10px;
+    font-size: 40px;
+    font-weight: 600;
+    background-image: url("../images/zigzag.png");
+    color:white;
+    border: 3px solid white;
+
+}
+
+#stats {
+    position: relative;
+    top: 250px;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+p {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-weight: 600;
+}
